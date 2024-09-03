@@ -1,4 +1,5 @@
 #include <stdio.h>
+//MOdificaciones
 void xLocal(void);         //Prototipo
 void xLocalStatic(void);
 void xGlobal(void);
